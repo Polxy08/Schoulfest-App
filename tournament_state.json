@@ -1,0 +1,423 @@
+{
+  "config": {
+    "yeargroups": [
+      {
+        "name": "7e",
+        "classes": [
+          "C1",
+          "C2",
+          "C3",
+          "G"
+        ]
+      },
+      {
+        "name": "6e",
+        "classes": [
+          "C1",
+          "C2",
+          "C3",
+          "G"
+        ]
+      },
+      {
+        "name": "5e",
+        "classes": [
+          "C1",
+          "C3",
+          "C3",
+          "G"
+        ]
+      },
+      {
+        "name": "4e",
+        "classes": [
+          "C1",
+          "C2",
+          "C3"
+        ]
+      },
+      {
+        "name": "3e",
+        "classes": [
+          "BC",
+          "D",
+          "G"
+        ]
+      }
+    ],
+    "points": {
+      "win": 2,
+      "draw": 1,
+      "loss": 0
+    }
+  },
+  "yeargroups": [
+    {
+      "name": "7e",
+      "teams": [
+        "7e - C1",
+        "7e - C2",
+        "7e - C3",
+        "7e - G"
+      ],
+      "group_matches": [
+        {
+          "home": "7e - C1",
+          "away": "7e - C2",
+          "result": "H"
+        },
+        {
+          "home": "7e - C1",
+          "away": "7e - C3",
+          "result": "H"
+        },
+        {
+          "home": "7e - C1",
+          "away": "7e - G",
+          "result": "H"
+        },
+        {
+          "home": "7e - C2",
+          "away": "7e - C3",
+          "result": "H"
+        },
+        {
+          "home": "7e - C2",
+          "away": "7e - G",
+          "result": "H"
+        },
+        {
+          "home": "7e - C3",
+          "away": "7e - G",
+          "result": "H"
+        }
+      ]
+    },
+    {
+      "name": "6e",
+      "teams": [
+        "6e - C1",
+        "6e - C2",
+        "6e - C3",
+        "6e - G"
+      ],
+      "group_matches": [
+        {
+          "home": "6e - C1",
+          "away": "6e - C2",
+          "result": "D"
+        },
+        {
+          "home": "6e - C1",
+          "away": "6e - C3",
+          "result": "D"
+        },
+        {
+          "home": "6e - C1",
+          "away": "6e - G",
+          "result": "H"
+        },
+        {
+          "home": "6e - C2",
+          "away": "6e - C3",
+          "result": "A"
+        },
+        {
+          "home": "6e - C2",
+          "away": "6e - G",
+          "result": "H"
+        },
+        {
+          "home": "6e - C3",
+          "away": "6e - G",
+          "result": "A"
+        }
+      ]
+    },
+    {
+      "name": "5e",
+      "teams": [
+        "5e - C1",
+        "5e - C3",
+        "5e - C3",
+        "5e - G"
+      ],
+      "group_matches": [
+        {
+          "home": "5e - C1",
+          "away": "5e - C3",
+          "result": "H"
+        },
+        {
+          "home": "5e - C1",
+          "away": "5e - C3",
+          "result": "A"
+        },
+        {
+          "home": "5e - C1",
+          "away": "5e - G",
+          "result": "H"
+        },
+        {
+          "home": "5e - C3",
+          "away": "5e - C3",
+          "result": "H"
+        },
+        {
+          "home": "5e - C3",
+          "away": "5e - G",
+          "result": "H"
+        },
+        {
+          "home": "5e - C3",
+          "away": "5e - G",
+          "result": "A"
+        }
+      ]
+    },
+    {
+      "name": "4e",
+      "teams": [
+        "4e - C1",
+        "4e - C2",
+        "4e - C3"
+      ],
+      "group_matches": [
+        {
+          "home": "4e - C1",
+          "away": "4e - C2",
+          "result": "D"
+        },
+        {
+          "home": "4e - C1",
+          "away": "4e - C3",
+          "result": "D"
+        },
+        {
+          "home": "4e - C2",
+          "away": "4e - C3",
+          "result": "D"
+        }
+      ]
+    },
+    {
+      "name": "3e",
+      "teams": [
+        "3e - BC",
+        "3e - D",
+        "3e - G"
+      ],
+      "group_matches": [
+        {
+          "home": "3e - BC",
+          "away": "3e - D",
+          "result": "H"
+        },
+        {
+          "home": "3e - BC",
+          "away": "3e - G",
+          "result": "D"
+        },
+        {
+          "home": "3e - D",
+          "away": "3e - G",
+          "result": "A"
+        }
+      ]
+    }
+  ],
+  "phase": "ko",
+  "qualified": {
+    "main": [
+      "7e - C1",
+      "7e - C2",
+      "6e - C1",
+      "6e - C3",
+      "5e - C3",
+      "5e - C3",
+      "4e - C1",
+      "3e - BC"
+    ],
+    "side": [
+      "7e - C3",
+      "7e - G",
+      "6e - C2",
+      "6e - G",
+      "5e - C1",
+      "5e - G",
+      "4e - C2",
+      "4e - C3",
+      "3e - G",
+      "3e - D"
+    ]
+  },
+  "brackets": {
+    "main": {
+      "rounds": [
+        {
+          "name": "Véirelsfinall",
+          "matches": [
+            {
+              "p1": "7e - C1",
+              "p2": "5e - C3",
+              "winner": null
+            },
+            {
+              "p1": "7e - C2",
+              "p2": "4e - C1",
+              "winner": null
+            },
+            {
+              "p1": "6e - C3",
+              "p2": "5e - C3",
+              "winner": null
+            },
+            {
+              "p1": "3e - BC",
+              "p2": "6e - C1",
+              "winner": null
+            }
+          ]
+        },
+        {
+          "name": "Halleffinall",
+          "matches": [
+            {
+              "p1": null,
+              "p2": null,
+              "winner": null
+            },
+            {
+              "p1": null,
+              "p2": null,
+              "winner": null
+            }
+          ]
+        },
+        {
+          "name": "Finall",
+          "matches": [
+            {
+              "p1": null,
+              "p2": null,
+              "winner": null
+            }
+          ]
+        }
+      ]
+    },
+    "side": {
+      "meta": {
+        "byes_round1": [
+          "7e - G",
+          "7e - C3",
+          "6e - G",
+          "3e - G"
+        ],
+        "wildcard_match_index": 0
+      },
+      "rounds": [
+        {
+          "name": "1. Ronn",
+          "matches": [
+            {
+              "p1": "5e - C1",
+              "p2": "6e - C2",
+              "winner": null
+            },
+            {
+              "p1": "4e - C3",
+              "p2": "3e - D",
+              "winner": null
+            },
+            {
+              "p1": "4e - C2",
+              "p2": "5e - G",
+              "winner": null
+            }
+          ]
+        },
+        {
+          "name": "2. Ronn",
+          "matches": [
+            {
+              "p1": null,
+              "p2": null,
+              "winner": null
+            },
+            {
+              "p1": null,
+              "p2": null,
+              "winner": null
+            },
+            {
+              "p1": null,
+              "p2": null,
+              "winner": null
+            }
+          ],
+          "bye": null
+        },
+        {
+          "name": "Halleffinall",
+          "matches": [
+            {
+              "p1": null,
+              "p2": null,
+              "winner": null
+            },
+            {
+              "p1": null,
+              "p2": null,
+              "winner": null
+            }
+          ]
+        },
+        {
+          "name": "Finall",
+          "matches": [
+            {
+              "p1": null,
+              "p2": null,
+              "winner": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tiebreaks": {
+    "6e": {
+      "teams": [
+        "6e - C2",
+        "6e - C3"
+      ],
+      "order": [
+        "6e - C3",
+        "6e - C2"
+      ]
+    },
+    "3e": {
+      "teams": [
+        "3e - BC",
+        "3e - G"
+      ],
+      "order": [
+        "3e - BC",
+        "3e - G"
+      ]
+    },
+    "4e": {
+      "teams": [
+        "4e - C1",
+        "4e - C2",
+        "4e - C3"
+      ],
+      "order": [
+        "4e - C1",
+        "4e - C2",
+        "4e - C3"
+      ]
+    }
+  }
+}
