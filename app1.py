@@ -443,7 +443,7 @@ if view != "beamer":
 
         st.divider()
         st.markdown("## Beamer")
-        beamer_pw = st.text_input("Beamer-Passwort", type="password", placeholder="****", key="beamer_pw_sidebar")
+        beamer_pw = st.text_input("Beamer-Passwuert", type="password", placeholder="****", key="beamer_pw_sidebar")
         if st.button("Beamer-View (neuer Tab)"):
             if beamer_pw == BEAMER_CODE:
                 st.session_state["beamer_authed"] = True
